@@ -1,41 +1,40 @@
 # Programming Dapps sheets
 
-| Subject              | Sheets
-| ---------            | -----
-|Intro Sheets          | [sheets1]
-|First smart contract  | [sheets2]
-|Remix and solidity    | [sheets3]
-|Nodes                 | [sheets4]
-|Web3.js               | [sheets5]
-|Other web3 browsers   | [sheets6]
-|Truffle               | [sheets7]
-|Oracles               | [sheets8]
-|Best practices        | [sheets9]
-|Tokens                | [sheets10]
-|IPFS                  | [sheets11]
-|Security              | [sheets12]
-|Tests                 | [sheets13]
-|ENS                   | [sheets14]
-|New developments      | [sheets15]
-|End assignment        | [sheets16]
+| Subject                    | sheets
+| ---------                  | -----
+|PD-1 Intro                  | [sheets_PD-1]
+|PD-2 First smart contract   | [sheets_PD-2]
+|PD-3 Remix and solidity     | [sheets_PD-3]
+|PD-4 Nodes                  | [sheets_PD-4]
+|PD-5 Web3.js                | [sheets_PD-5]
+|PD-6 Other web3 browsers    | [sheets_PD-6]
+|PD-7 Truffle                | [sheets_PD-7]
+|PD-8 Oracles                | [sheets_PD-8]
+|PD-9 Best practices         | [sheets_PD-9]
+|PD-10 Tokens                | [sheets_PD-10]
+|PD-11 IPFS                  | [sheets_PD-11]
+|PD-12 Security              | [sheets_PD-12]
+|PD-13 Tests                 | [sheets_PD-13]
+|PD-14 ENS                   | [sheets_PD-14]
+|PD-15 New developments      | [sheets_PD-15]
+|PD-16 End assignment        | [sheets_PD-16]
  
  
-
-[sheets1]: https://web3examples.com/dapps_sheets/PD-1.0 Intro Sheets.pdf
-[sheets2]: https://web3examples.com/dapps_sheets/PD-2.0 First smart contract Sheets.pdf
-[sheets3]: https://web3examples.com/dapps_sheets/PD-3.0 Remix and solidity Sheets.pdf
-[sheets4]: https://web3examples.com/dapps_sheets/PD-4.0 Nodes Sheets.pdf
-[sheets5]: https://web3examples.com/dapps_sheets/PD-5.0 Web3.js Sheets.pdf
-[sheets6]: https://web3examples.com/dapps_sheets/PD-6.0 Other web3 browsers Sheets.pdf
-[sheets7]: https://web3examples.com/dapps_sheets/PD-7 Truffle Sheets.pdf
-[sheets8]: https://web3examples.com/dapps_sheets/PD-8 Oracles Sheets.pdf
-[sheets9]: https://web3examples.com/dapps_sheets/PD-9 Best practices Sheets.pdf
-[sheets10]: https://web3examples.com/dapps_sheets/PD-10 Tokens Sheets.pdf
-[sheets11]: https://web3examples.com/dapps_sheets/PD-11 IPFS Sheets.pdf
-[sheets12]: https://web3examples.com/dapps_sheets/PD-12 Security Sheets.pdf
-[sheets13]: https://web3examples.com/dapps_sheets/PD-13 Tests Sheets.pdf
-[sheets14]: https://web3examples.com/dapps_sheets/PD-14 ENS Sheets.pdf
-[sheets15]: https://web3examples.com/dapps_sheets/PD-15 New developments Sheets.pdf
-[sheets16]: https://web3examples.com/dapps_sheets/PD-16 End assignment Sheets.pdf
+[sheets_PD-1]: https://web3examples.com/dapps_sheets_PD-/PD-1.0 Intro sheets.pdf
+[sheets_PD-2]: https://web3examples.com/dapps_sheets_PD-/PD-2.0 First smart contract sheets.pdf
+[sheets_PD-3]: https://web3examples.com/dapps_sheets_PD-/PD-3.0 Remix and solidity sheets.pdf
+[sheets_PD-4]: https://web3examples.com/dapps_sheets_PD-/PD-4.0 Nodes sheets.pdf
+[sheets_PD-5]: https://web3examples.com/dapps_sheets_PD-/PD-5.0 Web3.js sheets.pdf
+[sheets_PD-6]: https://web3examples.com/dapps_sheets_PD-/PD-6.0 Other web3 browsers sheets.pdf
+[sheets_PD-7]: https://web3examples.com/dapps_sheets_PD-/PD-7 Truffle sheets.pdf
+[sheets_PD-8]: https://web3examples.com/dapps_sheets_PD-/PD-8 Oracles sheets.pdf
+[sheets_PD-9]: https://web3examples.com/dapps_sheets_PD-/PD-9 Best practices sheets.pdf
+[sheets_PD-10]: https://web3examples.com/dapps_sheets_PD-/PD-10 Tokens sheets.pdf
+[sheets_PD-11]: https://web3examples.com/dapps_sheets_PD-/PD-11 IPFS sheets.pdf
+[sheets_PD-12]: https://web3examples.com/dapps_sheets_PD-/PD-12 Security sheets.pdf
+[sheets_PD-13]: https://web3examples.com/dapps_sheets_PD-/PD-13 Tests sheets.pdf
+[sheets_PD-14]: https://web3examples.com/dapps_sheets_PD-/PD-14 ENS sheets.pdf
+[sheets_PD-15]: https://web3examples.com/dapps_sheets_PD-/PD-15 New developments sheets.pdf
+[sheets_PD-16]: https://web3examples.com/dapps_sheets_PD-/PD-16 End assignment sheets.pdf
 
  
